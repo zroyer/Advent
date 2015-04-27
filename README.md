@@ -1,4 +1,4 @@
-# advent
+# Advent
 
 advent is a mobile scavenger hunt app where you can create and complete "Quests". Quests consist of individual tasks set at specific locations by the quest creator. Players compete by uploading pictures of themselves performing each task. The first player to complete each task of a quest is the winner.
 
